@@ -8,7 +8,6 @@
 <!-- BOUTONS SOCIAUX -->
 [![GitHub](https://img.shields.io/badge/GitHub-AnimusKWD-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22)](https://github.com/AnimusKWD)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a66c2)](https://www.linkedin.com/in/decardo-koumous-wouile/)
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=cc0000)](https://youtube.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128c7e)](https://wa.me/21626885727)
 
 ---
