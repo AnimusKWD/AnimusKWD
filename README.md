@@ -92,7 +92,7 @@ Contact    : wa.me/21626885727
 | Canal | Lien |
 |---|---|
 | 💼 LinkedIn | [decardo-koumous-wouile](https://www.linkedin.com/in/decardo-koumous-wouile/) |
-| 💬 WhatsApp | [+216 26 885 727](https://wa.me/21626885727) |
+| 💬 WhatsApp | +216 26 885 727 — [Ouvrir WhatsApp](https://wa.me/21626885727) |
 | 🐙 GitHub | [AnimusKWD](https://github.com/AnimusKWD) |
 
 ---
