@@ -26,11 +26,9 @@
 ```yaml
 Nom        : Decardo Koumous Wouile
 Rôle       : Cloud & DevOps Engineer
-Localité   : Tunis, Tunisie 🇹🇳
-Société    : Deo IT-Tech
 Focus      : AWS Infrastructure | CI/CD | Automatisation
 Certif.    : AWS SAA-C03 (en cours) ⏳
-Contact    : wa.me/21626885727
+
 ```
 
 ---
